@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test calculator","Add number1 number2","SUCCESS","2020-04-23T22:10:01.964+07:00[Asia/Bangkok]","0.0","44.37"
+"Test calculator","Mul number1 number2","SUCCESS","2020-04-23T22:10:47.805+07:00[Asia/Bangkok]","0.0","101.9"
+"Test calculator","Sub number1 and number2","SUCCESS","2020-04-23T22:12:30.171+07:00[Asia/Bangkok]","0.0","100.43"

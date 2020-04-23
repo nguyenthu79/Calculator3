@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="calcu.features.TestCalculator" skipped="0" tests="4" time="349.64" timestamp="2020-04-23 10:10:01"><testcase classname="calcu.features.TestCalculator" name="Add number1 number2"/><testcase classname="calcu.features.TestCalculator" name="Mul number1 number2"/><testcase classname="calcu.features.TestCalculator" name="Sub number1 and number2"/><testcase classname="calcu.features.TestCalculator" name="Div number1 number2"><failure message="&#10;Expected: &quot;5&quot;&#10;     but: was &quot;30&quot;" type="java.lang.AssertionError">
+Expected: "5"
+     but: was "30"</failure><system-err>
+Expected: "5"
+     but: was "30"&#13;
+calcu.features.TestCalculator.Div_number1_number2(TestCalculator.java:79)&#13;
+</system-err></testcase></testsuite>
